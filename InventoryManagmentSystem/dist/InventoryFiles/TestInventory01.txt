@@ -1,0 +1,5 @@
+668842989|Bread|It's bread|3.45|15
+901640360|Eggs|No Description|5.99|25
+842709187|Toast|Why are we selling toast now?|6.55|9
+64991021|Orange|Looking a little off|3.99|5
+125578592|Apple|Nice and Orange?|2.99|25

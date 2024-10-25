@@ -1,0 +1,4 @@
+INVENTORY REPORT REPORT
+=== Current Date: 04/20/2024 ===
+=== INVENTORY REPORT ===
+Item SKU: 1001, Item Name: TestItem01, List Price: $3.45, Current Quantity: 5

@@ -1,0 +1,4 @@
+SALES REPORT REPORT
+=== Current Date: 04/20/2024 ===
+=== SALES REPORT ===
+Date range: 02/25/2004-02/30/2004, Sales amount: $3500.00
